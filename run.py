@@ -294,7 +294,7 @@ for i in range(n):
 	level.append(0)
 
 #Run the simulation for "TIMES" times on the graph 
-for iteration in range(10):
+for iteration in range(num_iters):
 
 	#Play the game with the decided strategies
 	game_play(G, weights, set_node, gullibilty, state, n, level)
