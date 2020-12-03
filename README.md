@@ -69,8 +69,8 @@ The code will ask for the following inputs -
 * num_iters -> Number of iterations of spread of the misinformation from the sources, i.e. the activator and misinformed nodes 
 
 ## Contributors
-* (Aditya Singh Chauhan)[]
-* (Akhilesh Sharma)[https://github.com/Dragnoid99]
-* (Mohd Talib Siddiqui)[]
-* (Sanchit Agrawal)[]
-* (Shashwat Gupta)[]
+* [Aditya Singh Chauhan](https://github.com/adityasc)
+* [Akhilesh Sharma](https://github.com/Dragnoid99)
+* [Mohd Talib Siddiqui](https://github.com/the-mts)
+* [Sanchit Agrawal](https://github.com/Roberticey)
+* [Shashwat Gupta](https://github.com/shashwat2110)
