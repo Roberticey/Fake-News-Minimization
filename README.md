@@ -1,8 +1,8 @@
-#A Game Theoretic Approach for Fake News Minimization 
+# A Game Theoretic Approach for Fake News Minimization 
 
 In this modern era, social media is one of the topmost source of fake news. All social media platforms are trying to curb the spread of misinformation. This project aims towards analyzing various approaches and strategies for the fake news spreader and the platform.
 
-#Requirements
+# Requirements
 
 * networkx
 * numpy
@@ -10,7 +10,9 @@ In this modern era, social media is one of the topmost source of fake news. All 
 * pickle
 * snap
 
-#Installation / Setup
+# Installation / Setup
+
+Note : If you don't have python3 then you need to install python3 on your PC.
 
 You shall need networkx, numpy, pandas, pickle, snap for executing the code. 
 
@@ -47,7 +49,13 @@ pip3 install pandas
 pip3 install pickle
 ```
 
-#Running the code
+# Running the code
+
+The code can be executed by the following command -
+
+```
+python3 run.py
+```
 
 The code will ask for the following inputs -
 
@@ -60,7 +68,7 @@ The code will ask for the following inputs -
 * exponent_bots -> Value of oracle exponent used by the platform to choose the nodes to be directly connected by the oracle nodes
 * num_iters -> Number of iterations of spread of the misinformation from the sources, i.e. the activator and misinformed nodes 
 
-##Contributors
+## Contributors
 * (Aditya Singh Chauhan)[]
 * (Akhilesh Sharma)[https://github.com/Dragnoid99]
 * (Mohd Talib Siddiqui)[]
