@@ -12,7 +12,7 @@ In this modern era, social media is one of the topmost source of fake news. All 
 
 # Installation / Setup
 
-Note : If you don't have python3 then you need to install python3 on your PC.
+*Note*: If you don't have python3 then you need to install python3 on your PC.
 
 You shall need networkx, numpy, pandas, pickle, snap for executing the code. 
 
